@@ -1,0 +1,8 @@
+{
+  "Registration":
+  {
+    "username_texbox_name": "fld_username",
+    "email_texbox_name": "fld_email",
+    "password_texbox_name": "fld_password"
+  }
+}
